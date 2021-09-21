@@ -7,7 +7,7 @@
 
 ## [プレスリリース](https://bit-trade-one.co.jp/BTOpicture/PreRelease/pre005-MMC.html)
 
-## [マニュアル](https://a-desk.jp/project/hobby/minico/mmc_manual.pdf)
+## [マニュアル](https://github.com/bit-trade-one/AD00005-MMC/blob/master/Manual/mmc_manual.pdf)
 
 ## [便利な使い方](https://docs.google.com/document/edit?id=1jn5Tpn4ifcK2wetP1sVnSo1LNeFv5SYsTAYvLW1WhbA&hl=ja#heading=h.9genng-293jor)
 
