@@ -2,7 +2,7 @@
 
 ### 本製品は USBマウス／キーボード／ジョイパッドとして動作する、小型のコントローラ自作キットです。(販売終了)
 
-![商品画像]()  
+![商品画像](https://github.com/bit-trade-one/AD00005-MMC/blob/master/image/MMC-pix2.jpg)  
 
 ## [プレスリリース](https://bit-trade-one.co.jp/BTOpicture/PreRelease/pre005-MMC.html)
 
