@@ -11,12 +11,6 @@
 
 ## [便利な使い方](https://docs.google.com/document/edit?id=1jn5Tpn4ifcK2wetP1sVnSo1LNeFv5SYsTAYvLW1WhbA&hl=ja#heading=h.9genng-293jor)
 
-## [PCアプリ]()
-
-### [基板図]()
-
-### [回路図]()
-
 ## 製品仕様 
  
 商品名 ： USBマイクロマルチコントローラ　  
